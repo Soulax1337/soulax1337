@@ -1,4 +1,4 @@
-<h1 align="center">Slt ! C'est Soulax</h1>
+<h1 align="center">Slt ! 🌌</h1>
 <h3 align="center">Développeur lua pour des serveurs fivem</h3>
 
 - 🌌 Mon projet actuel est [sFreeroam](https://discord.gg/sfreeroam)
