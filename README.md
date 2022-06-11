@@ -5,8 +5,8 @@
 
 - 👨‍💻 Mon serveur de dev [Soulax Entraides & Dev](https://discord.gg/E4hxmMGpvB)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">SOCIAL NETWORKS</h3>
+<p align="center">
 <a href="https://discord.gg/https://discord.gg/sfreeroam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sfreeroam" height="30" width="40" /></a>
 </p>
 
