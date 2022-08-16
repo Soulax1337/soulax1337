@@ -1,8 +1,6 @@
 <h1 align="center">Slt ! 🌌</h1>
 <h3 align="center">Développeur lua pour des serveurs fivem</h3>
 
-- 🌌 Mon projet actuel est [sFreeroam](https://discord.gg/sfreeroam)
-
 - 👨‍💻 Mon serveur de dev [Soulax Entraides & Dev](https://discord.gg/E4hxmMGpvB)
 
 <h3 align="center">SOCIAL NETWORKS :</h3>
